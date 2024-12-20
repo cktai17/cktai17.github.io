@@ -44,7 +44,7 @@
               "state": {
                 "file": "podcasts.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "podcasts"
@@ -255,8 +255,8 @@
   "lastOpenFiles": [
     "projects.md",
     "publications.md",
-    "presentations.md",
     "podcasts.md",
+    "presentations.md",
     "index.md",
     "demo.md",
     "kosmos-pannekoek.webp",
