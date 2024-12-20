@@ -1,3 +1,7 @@
+---
+title: Podcasts
+---
+
 ## The kosmos van Pannekoek
 
 <img width="400" height="400" src="/images/kosmos.jpg" /><br clear="left">

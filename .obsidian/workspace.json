@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcasts.md",
+                "file": "publications.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "podcasts"
+              "title": "publications"
             }
           }
         ],
@@ -253,14 +253,14 @@
   },
   "active": "f8f5740abfcaccaf",
   "lastOpenFiles": [
+    "projects.md",
+    "presentations.md",
+    "podcasts.md",
     "index.md",
+    "demo.md",
     "publications.md",
     "kosmos-pannekoek.webp",
-    "presentations.md",
-    "demo.md",
-    "podcasts.md",
     "images/kosmos.jpg",
-    "projects.md",
     "q0azgiiv.bmp",
     "images/alles_voor_de_wetenschap.jpg",
     "Untitled.md",

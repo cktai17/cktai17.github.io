@@ -1,7 +1,6 @@
 ---
-id: About
+title: About
 ---
-# About
 <img align="right" width="300" height="300" hspace="20" src="/images/chaokang-300x300.jpg">My PhD research was conducted at the University of Amsterdam, for which I investigated the scientific research of the influential Marxist and astronomer Anton Pannekoek. During this 
 research, I focused on Pannekoek’s implementation of astrophotography, the epistemic virtues he pursued in his research, and the relation between his scientific methodology and his political philosophy. I have also taught various classes, including the graduate course Philosophy of Science and the undergraduate course History and Philosophy of Science at the University of Amsterdam, and the undergraduate course History of Modern Physics at Utrecht University.
 

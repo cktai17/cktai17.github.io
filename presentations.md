@@ -1,4 +1,6 @@
-# Research Presentations
+---
+title: Research Presentations
+---
 
 ------
 ## Public Lectures
