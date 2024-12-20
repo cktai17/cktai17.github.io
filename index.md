@@ -2,7 +2,7 @@
 id: About
 ---
 # About
-<img align="right" width="300" height="300" src="/images/chaokang-300x300.jpg">My PhD research was conducted at the University of Amsterdam, for which I investigated the scientific research of the influential Marxist and astronomer Anton Pannekoek. During this 
+<img align="right" width="300" height="300" hspace="20" src="/images/chaokang-300x300.jpg">My PhD research was conducted at the University of Amsterdam, for which I investigated the scientific research of the influential Marxist and astronomer Anton Pannekoek. During this 
 research, I focused on Pannekoek’s implementation of astrophotography, the epistemic virtues he pursued in his research, and the relation between his scientific methodology and his political philosophy. I have also taught various classes, including the graduate course Philosophy of Science and the undergraduate course History and Philosophy of Science at the University of Amsterdam, and the undergraduate course History of Modern Physics at Utrecht University.
 
 Recent publications include _Anton Pannekoek: Photography, Epistemic Virtues, and Political Philosophy in Early-Twentieth Century Astronomy_ (PhD dissertation, University of Amsterdam, 2021; _Anton Pannekoek: Ways of Viewing Science and Society_ (Amsterdam University Press, 2019), edited with Bart van der Steen and Jeroen van Dongen; and “Left Radicalism and the Milky Way: Connecting the Scientific and Socialist Virtues of Anton Pannekoek” in _Historical Studies of the Natural Sciences_ 47 (2017): 200-254.
