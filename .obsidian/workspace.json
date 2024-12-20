@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "publications.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "publications"
             }
           }
         ],
@@ -253,12 +253,13 @@
   },
   "active": "f8f5740abfcaccaf",
   "lastOpenFiles": [
+    "presentations.md",
+    "demo.md",
+    "index.md",
     "podcasts.md",
     "images/kosmos.jpg",
     "projects.md",
-    "presentations.md",
     "publications.md",
-    "index.md",
     "kosmos-pannekoek.webp",
     "q0azgiiv.bmp",
     "images/alles_voor_de_wetenschap.jpg",
