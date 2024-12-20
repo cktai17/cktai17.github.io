@@ -1,4 +1,8 @@
-------
+---
+title: Publications
+---
+
+-----
 ## Dissertation
 
 **Chaokang Tai**. 2021. [_Anton Pannekoek, Marxist Astronomer: Photography, Epistemic Virtues, and Political Philosophy in Early-Twentieth Century Astronomy_](https://hdl.handle.net/11245.1/ffd11908-9018-492c-8805-952387d964fc). PhD Thesis, University of Amsterdam, 26 March 2021.
@@ -12,7 +16,7 @@
 
 **Chaokang Tai**. “[Left Radicalism and the Milky Way: Connecting the Scientific and Socialist Virtues of Anton Pannekoek](https://hcommons.org/deposits/item/hc:17035/)“. _Historical Studies in the Natural Sciences_ 47, no 2 (2017): 200-254. doi: 10.1525/hsns.2017.47.2.200
 
-**Chaokang Tai** & Jeroen van Dongen. “[Anton Pannekoek’s Epistemic Virtues in Astronomy and Socialism: Personae and the Practice of Science](https://www.bmgn-lchr.nl/articles/10.18352/bmgn-lchr.10264)“. In: Scholarly Personae: Repertoires and Performances of Academic Identity (special issue), edited by Herman Paul, _BMGN – Low Countries Historical Review_ 131, no 4 (2016): 55-70. doi: 10.18352/bmgn-lchr.10264
+**Chaokang Tai** & Jeroen van Dongen. “[Anton Pannekoek’s Epistemic Virtues in Astronomy and Socialism: Personae and the Practice of Science](https://doi.org/10.18352/bmgn-lchr.10264)“. In: Scholarly Personae: Repertoires and Performances of Academic Identity (special issue), edited by Herman Paul, _BMGN – Low Countries Historical Review_ 131, no 4 (2016): 55-70. doi: 10.18352/bmgn-lchr.10264
 
 ------
 ## Edited Volume

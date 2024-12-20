@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcasts.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "podcasts"
+              "title": "projects"
             }
           },
           {
@@ -253,10 +253,10 @@
   },
   "active": "6587dba6ec64568c",
   "lastOpenFiles": [
-    "projects.md",
     "publications.md",
-    "podcasts.md",
     "presentations.md",
+    "projects.md",
+    "podcasts.md",
     "index.md",
     "demo.md",
     "kosmos-pannekoek.webp",

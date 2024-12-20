@@ -1,11 +1,14 @@
-theme: minima
+theme: remote_theme=jekyll/minima
 title: "Chaokang Tai - Historian of Science"
 header_pages:
   - index.md
+  - projects.md
   - publications.md
+  - presentations.md
   - podcasts.md
-author: Chaokang Tai
-email: "c.k.tai@outlook.com"
+author: 
+  name: Chaokang Tai
+  email: "c.k.tai@outlook.com"
 minima:
   social_links:
     - { platform: bluesky,  user_url: "https://bsky.app/profile/cktai.bsky.social"}

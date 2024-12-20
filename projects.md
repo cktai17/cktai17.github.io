@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Projects
 ---
 
 [Producing Astrophotographic Knowledge: Glass Plate Photography in Dutch Astronomy, 1890–1960](astrophotography)
