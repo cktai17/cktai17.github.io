@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "podcasts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "podcasts"
             }
           },
           {
@@ -253,13 +253,13 @@
   },
   "active": "c5503570a03f6993",
   "lastOpenFiles": [
-    "astrophotography.md",
+    "presentations.md",
     "index.md",
+    "astrophotography.md",
     "demo.md",
     "images/alles_voor_de_wetenschap.jpg",
     "publications.md",
     "projects.md",
-    "presentations.md",
     "podcasts.md",
     "kosmos-pannekoek.webp",
     "images/kosmos.jpg",

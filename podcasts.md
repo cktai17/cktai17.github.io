@@ -6,7 +6,7 @@ title: Podcasts
 
 <img width="400" height="400" src="/images/kosmos.jpg" /><br clear="left">
 
-Podcast: [_De Kosmos van Pannekoek_](https://api.uva.nl/nl/over-ons/geschiedenis/podcast-de-kosmos-van-pannekoek/podcas.html)  
+Podcast: [_De Kosmos van Pannekoek_](https://api.uva.nl/nl/over-ons/geschiedenis/podcast-de-kosmos-van-pannekoek/podcast.html)  
 Published 10 June 2022  
 Created by Edda Heinsman  
 Hosted by Edda Heinsman and Chaokang Tai  
