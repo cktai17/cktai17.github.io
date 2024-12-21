@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects.md",
+                "file": "astrophotography.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "projects"
+              "title": "astrophotography"
             }
           },
           {
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "336761dfe8cdaf9b",
@@ -251,18 +251,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6587dba6ec64568c",
+  "active": "c5503570a03f6993",
   "lastOpenFiles": [
-    "publications.md",
-    "presentations.md",
-    "projects.md",
-    "podcasts.md",
+    "astrophotography.md",
     "index.md",
     "demo.md",
+    "images/alles_voor_de_wetenschap.jpg",
+    "publications.md",
+    "projects.md",
+    "presentations.md",
+    "podcasts.md",
     "kosmos-pannekoek.webp",
     "images/kosmos.jpg",
     "q0azgiiv.bmp",
-    "images/alles_voor_de_wetenschap.jpg",
     "Untitled.md",
     "_includes/analytics.html",
     "_includes/New Text Document.txt",

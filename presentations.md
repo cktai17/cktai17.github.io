@@ -3,6 +3,7 @@ title: Research Presentations
 ---
 
 ------
+
 ## Public Lectures
 
 2024 April 16  
@@ -27,6 +28,7 @@ title: Research Presentations
 “Anton Pannekoek”, _Museumn8 2015_, SMBA, Amsterdam.
 
 ---
+
 ## Social Media Conference Papers
 
 2020 February 12  
@@ -34,6 +36,7 @@ title: Research Presentations
 [https://www.bshs.org.uk/bshsglobalhist-the-papers](https://www.bshs.org.uk/bshsglobalhist-the-papers)
 
 ---
+
 ## Conference and Workshop Papers
 
 2024 September 27  
@@ -97,6 +100,7 @@ title: Research Presentations
 Objectiviteit of interpretatie? Het Melkwegonderzoek van Kapteyn en Pannekoek door het kader van epistemische waarden. _Workshop Tweede Wetenschappelijke Revolutie_, Museum Boerhaave, Leiden.
 
 ---
+
 ## Colloquiums, Seminars, Master Classes, and Guest Lectures
 
 2024 November 11  
