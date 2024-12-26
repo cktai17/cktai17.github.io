@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events.md",
+                "file": "teaching.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "events"
+              "title": "teaching"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "240153355d4b60cc",
   "lastOpenFiles": [
-    "teaching.md",
     "events.md",
+    "teaching.md",
     "files/TeylersMeetingAnnouncement.pdf",
     "images/Banner-Rolduc-2019.jpg",
     "images/proefschrift_cover.png",

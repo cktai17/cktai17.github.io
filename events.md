@@ -6,6 +6,7 @@ Co-organizer of the workshop:
 **7th Low Countries History of Science and Humanities PhD Conference**  
 Rolduc Abbey, Kerkrade  
 14 & 15 February 2019
+
 ![Banner for the History of Science PhD Conference](images/Banner-Rolduc-2019.jpg)
 
 [Call for Papers](files/CfP-rolduc2019.pdf)  
