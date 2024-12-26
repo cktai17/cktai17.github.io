@@ -8,6 +8,8 @@ header_pages:
   - publications.md
   - presentations.md
   - podcasts.md
+  - events.md
+  - teaching.md
 author: 
   name: Chaokang Tai
   email: "c.k.tai@outlook.com"

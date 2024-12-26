@@ -28,12 +28,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcasts.md",
+                "file": "astrophotography.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "podcasts"
+              "title": "astrophotography"
+            }
+          },
+          {
+            "id": "3bf105fac3d1078c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "events"
+            }
+          },
+          {
+            "id": "240153355d4b60cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "events"
             }
           },
           {
@@ -93,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "336761dfe8cdaf9b",
@@ -251,30 +279,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5503570a03f6993",
+  "active": "240153355d4b60cc",
   "lastOpenFiles": [
+    "teaching.md",
+    "events.md",
+    "files/TeylersMeetingAnnouncement.pdf",
+    "images/Banner-Rolduc-2019.jpg",
+    "images/proefschrift_cover.png",
+    "images/boerhaave.jpg",
+    "images/pannekoek2019 titlepage.png",
+    "files/CfP-Pannekoek2016-final.pdf",
+    "files/Programme-pannekoek2016.pdf",
+    "files/CfP-rolduc2019.pdf",
+    "files/Rolduc-19-Programme-booklet.pdf",
+    "files",
+    "New folder",
+    "images/out-of-the-box.png",
+    "images/TeylersMeetingPoster2_1080.jpg",
+    "images/pannekoek2016.png",
+    "images/650-out-of-the-box-henri-snel.jpg",
+    "_includes/custom-head.html",
+    "astrophotography.md",
+    "events",
+    "demo.md",
+    "podcasts.md",
     "presentations.md",
     "index.md",
-    "astrophotography.md",
-    "demo.md",
     "images/alles_voor_de_wetenschap.jpg",
     "publications.md",
     "projects.md",
-    "podcasts.md",
     "kosmos-pannekoek.webp",
-    "images/kosmos.jpg",
-    "q0azgiiv.bmp",
-    "Untitled.md",
     "_includes/analytics.html",
-    "_includes/New Text Document.txt",
-    "_includes",
-    "New folder",
-    "_config.yml",
-    "New Text Document.txt",
     "_config.yml.md",
-    "images",
-    "Welcome.md",
-    "images/chaokang-300x300.jpg",
-    "chaokang.bmp"
+    "Welcome.md"
   ]
 }
