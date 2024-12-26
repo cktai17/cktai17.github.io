@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teaching.md",
+                "file": "pannekoek.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "teaching"
+              "title": "pannekoek"
             }
           },
           {
@@ -281,7 +281,13 @@
   },
   "active": "240153355d4b60cc",
   "lastOpenFiles": [
+    "projects.md",
+    "pannekoek.md",
+    "astrophotography.md",
     "events.md",
+    "publications.md",
+    "Untitled.md",
+    "presentations.md",
     "teaching.md",
     "files/TeylersMeetingAnnouncement.pdf",
     "images/Banner-Rolduc-2019.jpg",
@@ -299,15 +305,11 @@
     "images/pannekoek2016.png",
     "images/650-out-of-the-box-henri-snel.jpg",
     "_includes/custom-head.html",
-    "astrophotography.md",
     "events",
     "demo.md",
     "podcasts.md",
-    "presentations.md",
     "index.md",
     "images/alles_voor_de_wetenschap.jpg",
-    "publications.md",
-    "projects.md",
     "kosmos-pannekoek.webp",
     "_includes/analytics.html",
     "_config.yml.md",
