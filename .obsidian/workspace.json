@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pannekoek.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "pannekoek"
+              "title": "index"
             }
           },
           {
@@ -281,10 +281,12 @@
   },
   "active": "240153355d4b60cc",
   "lastOpenFiles": [
-    "projects.md",
-    "pannekoek.md",
-    "astrophotography.md",
     "events.md",
+    "astrophotography.md",
+    "images/kosmos.jpg",
+    "pannekoek.md",
+    "CNAME",
+    "projects.md",
     "publications.md",
     "Untitled.md",
     "presentations.md",
@@ -310,8 +312,6 @@
     "podcasts.md",
     "index.md",
     "images/alles_voor_de_wetenschap.jpg",
-    "kosmos-pannekoek.webp",
-    "_includes/analytics.html",
     "_config.yml.md",
     "Welcome.md"
   ]
