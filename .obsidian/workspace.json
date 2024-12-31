@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcasts.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "podcasts"
+              "title": "index"
             }
           },
           {
@@ -281,11 +281,11 @@
   },
   "active": "240153355d4b60cc",
   "lastOpenFiles": [
-    "index.md",
     "teaching.md",
-    "images/photowork.jpg",
-    "podcasts.md",
     "presentations.md",
+    "podcasts.md",
+    "index.md",
+    "images/photowork.jpg",
     "pannekoek.md",
     "events.md",
     "astrophotography.md",
