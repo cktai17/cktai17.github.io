@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "teaching.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "teaching"
             }
           },
           {
@@ -281,10 +281,10 @@
   },
   "active": "240153355d4b60cc",
   "lastOpenFiles": [
+    "index.md",
     "teaching.md",
     "presentations.md",
     "podcasts.md",
-    "index.md",
     "images/photowork.jpg",
     "pannekoek.md",
     "events.md",

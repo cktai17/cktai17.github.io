@@ -1,6 +1,6 @@
 ---
 title: Chaokang Tai
-image: "![](photowork.jpg)"
+image: images/photowork.jpg
 ---
 ![Profile photo of Chaokang Tai](images/chaokang-300x300.jpg){: style="float: right; margin-left: 1em"}
 Welcome to my homepage. I am a historian of science, currently employed as Lecturer in Academic Skills and Philosophy of Science at the University of Amsterdam.

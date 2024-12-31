@@ -26,6 +26,8 @@ title: Teaching
 	L = (guest) lecturer  
 	T = teach tutorials, seminars, and/or practicals
 
-[^inst]: UvA = University of Amsterdam  
+[^inst]: 
+	UR = University of Regensburg  
 	UU = Utrecht University  
-	UR = University of Regensburg
+	UvA = University of Amsterdam  
+	VU = Vrije Universiteit Amsterdam
