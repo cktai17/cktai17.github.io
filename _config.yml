@@ -2,6 +2,11 @@ plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 title: "Chaokang Tai - Historian of Science"
+description: "Personal homepage of Chaokang Tai"
+image:
+  path: /images/photowork.jpg
+  width: 192
+  height: 192
 header_pages:
   - index.md
   - projects.md
