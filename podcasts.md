@@ -6,6 +6,7 @@ title: Podcasts
 
 
 ![Logo of the podcast _De Kosmos van Pannekoek_](images/kosmos.jpg){: width="400"}
+
 Podcast: [_De Kosmos van Pannekoek_](https://api.uva.nl/nl/over-ons/geschiedenis/podcast-de-kosmos-van-pannekoek/podcast.html)  
 Published 10 June 2022  
 Created by Edda Heinsman  
@@ -31,6 +32,7 @@ Guests: Gijs Nelemans, Jan Heerze, en Loek Scheurs
 ## Alles voor de wetenschap
 
 ![Logo of the podcast _Alles voor de Wetenschap_](images/alles_voor_de_wetenschap.jpg){: width="400"}
+
 NPO Focus Podcast: _Alles voor de wetenschap_
 Created by Edda Heinsman
 

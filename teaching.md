@@ -19,10 +19,10 @@ title: Teaching
 | Natuurkundepracticum 1                             | UvA       | B1    | Laboratory           | T             | 08/09 |       |     |
 
 [^tasks]: D= (partially) designed the course
-C = course (co-)coordinator
-L = (guest) lecturer
-T = teach tutorials, seminars, and/or practicals
+	C = course (co-)coordinator
+	L = (guest) lecturer
+	T = teach tutorials, seminars, and/or practicals
 
 [^inst]: UvA = University of Amsterdam
-UU = Utrecht University
-UR = University of Regensburg
+	UU = Utrecht University
+	UR = University of Regensburg

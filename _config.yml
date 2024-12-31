@@ -1,8 +1,11 @@
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 remote_theme: jekyll/minima
 title: "Chaokang Tai - Historian of Science"
-description: "Personal homepage of Chaokang Tai"
+tagline: "Personal homepage"
+description: "The Personal homepage of Chaokang Tai"
+url: http://www.cktai.nl/
 image:
   path: /images/photowork.jpg
   width: 192
