@@ -4,7 +4,7 @@ plugins:
 remote_theme: jekyll/minima
 title: "Chaokang Tai - Historian of Science"
 tagline: "Personal homepage"
-description: "The Personal homepage of Chaokang Tai"
+description: "Personal homepage of Chaokang Tai"
 url: http://www.cktai.nl/
 image:
   path: images/photowork.jpg
