@@ -281,6 +281,7 @@
   },
   "active": "25ccc4f80fdb39bd",
   "lastOpenFiles": [
+    "_includes/footer.html",
     "GithubPages.code-workspace",
     "_includes/navigation.html",
     "_includes/nav.html",
@@ -301,7 +302,6 @@
     "_site/images/Banner-Rolduc-2019.jpg",
     "_site/images",
     "_site/files/TeylersMeetingAnnouncement.pdf",
-    "_site/files/Rolduc-19-Programme-booklet.pdf",
     "Untitled.md",
     "index.md",
     "events.md",
