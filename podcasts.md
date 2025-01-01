@@ -1,5 +1,6 @@
 ---
-title: Podcasts
+title: Podcast appearances
+permalinks: /podcasts/
 ---
 
 ## The kosmos van Pannekoek

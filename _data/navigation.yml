@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Projects
+  link: projects
+- name: Publications
+  link: publications
+- name: Presenations
+  link: presentations
+- name: Podcasts
+  link: podcasts
+- name: Events
+  link: events
+- name: Courses
+  link: teaching

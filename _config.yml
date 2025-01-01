@@ -10,14 +10,6 @@ image:
   path: images/photowork.jpg
   width: 192
   height: 192
-header_pages:
-  - index.md
-  - projects.md
-  - publications.md
-  - presentations.md
-  - podcasts.md
-  - events.md
-  - teaching.md
 author: 
   name: Chaokang Tai
   email: "c.k.tai@outlook.com"

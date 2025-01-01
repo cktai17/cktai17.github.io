@@ -1,5 +1,6 @@
 ---
 title: Presentations
+permalink: /presentations/
 ---
 
 ------

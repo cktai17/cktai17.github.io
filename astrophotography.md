@@ -1,6 +1,6 @@
 ---
 title: Astrophotography
-nav_trigger: true
+permalink: /astrophotography/
 ---
 
 # project description
