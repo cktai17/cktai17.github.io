@@ -1,14 +1,14 @@
 - name: Home
   link: /
 - name: Projects
-  link: /projects/
+  link: /projects
 - name: Publications
-  link: /publications/
+  link: /publications
 - name: Presenations
-  link: /presentations/
+  link: /presentations
 - name: Podcasts
-  link: /podcasts/
+  link: /podcasts
 - name: Events
-  link: /events/
+  link: /events
 - name: Courses
-  link: /teaching/
+  link: /teaching

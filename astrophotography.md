@@ -1,6 +1,6 @@
 ---
 title: Astrophotography
-permalink: /astrophotography/
+permalink: /astrophotography
 ---
 
 # project description

@@ -1,6 +1,6 @@
 ---
 title: Courses taught
-permalink: /teaching/
+permalink: /teaching
 ---
 
 | Course                                             | Institute[^inst] | Level | Type                 | Tasks[^tasks] | First | Last  |     |

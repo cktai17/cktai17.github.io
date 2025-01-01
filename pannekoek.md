@@ -1,6 +1,6 @@
 ---
 title: Anton Pannekoek
-permalink: /pannekoek/
+permalink: /pannekoek
 ---
 
 ## Photography, Epistemic Virtues, and Political Philosophy in Early-Twentieth Century Astronomy
