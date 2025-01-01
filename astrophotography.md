@@ -3,8 +3,7 @@ title: Astrophotography
 permalink: /astrophotography
 ---
 
-# project description
-
+## Producing Astrophotographic Knowledge: Glass Plate Photography in Dutch Astronomy, 1890–1960
 The development and implementation of glass plate photography profoundly impacted the daily practice of observational astronomy. This impact is especially clear in the case of Leiden Observatory, which managed to rise to prominence in photographic astronomy during the period 1920-1960, despite both the climate and the terrain being unfavourable for optical observations. Leiden Observatory still houses over 40,000 photographic plates with the markings and annotations still intact. This wealth of material makes it possible to reconstruct in detail how these plates were taken, transferred, and reduced in produce astronomical knowledge. This project traces the entire process of glass plate astrophotography, including how photographic projects were planned and requested, how the plates were then taken and transferred, and finally how they were measured and reduced. 
 
 ## Leiden and Johannesburg
