@@ -1,6 +1,6 @@
 ---
 title: Academic events organized
-permalink: /events/
+permalink: /events
 ---
 ----
 Co-organizer of the workshop:  
