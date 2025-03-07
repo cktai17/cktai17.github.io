@@ -7,7 +7,7 @@ tagline: "Personal homepage"
 description: "Personal homepage of Chaokang Tai"
 url: http://www.cktai.nl/
 image:
-  path: images/photowork.jpg
+  path: /images/photowork.jpg
   width: 192
   height: 192
 author: 
