@@ -5,18 +5,18 @@ permalink: /teaching
 
 | Course name                                        | Institute[^inst] | Level | Type                 | Role[^tasks] | First | Last  |   
 | -------------------------------------------------- | ---------------- | ----- | -------------------- | ------------- | ----- | ----- |
-| Professionele Vaardigheden en Loopbaanontwikkeling | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="60"}            | BSc 2    | Colloquium, Tutorial | CT            | 23/24 | 24/25 |     |
-| Academische Vaardigheden en Tutoraat               | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="60"}        | BSc 1    | Tutorial             | T             | 23/24 | 24/25 |     |
-| Reflection on Chemistry                            | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"}              | BSc 2    | Lecture              | DLT           | 23/24 | 24/25 |     |
-| History and Philosophy of Science                  | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"}              | BSc 3    | Lecture              | DCLT          | 16/17 | 24/25 |     |
-| Reflectie op natuurkunde                           | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"}              | BSc 2    | Lecture              | T             | 23/24 |       |     |
-| Master Colloquium History of Science               | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="60"}               | MSc     | Colloquium           | C             | 22/23 |       |     |
-| The Remaking of Astronomy                          | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="60"}                | BSc 3    | Seminar              | DCT           | 21/22 |       |     |
-| History of Physics in Society                      | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="60"}                | MSc     | Seminar              | DCT           | 21/22 | 22/23 |     |
-| Geschiedenis van de moderne natuurkunde            | ![Logo of the Utrecht University](images/logo_Utrecht.png){: height="60"}                | BSc 3    | Lecture              | LT            | 16/17 | 17/18 |     |
-| Philosophy of Science                              | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"} ![Logo of the Utrecht University](images/logo_Utrecht.png){: height="60"}            | MSc     | Seminar              | T             | 14/15 | 15/16 |     |
-| Natuurkundepracticum 2                             | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"}              | BSc 2    | Laboratory           | T             | 08/09 | 09/10 |     |
-| Natuurkundepracticum 1                             | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="60"}              | BSc 1    | Laboratory           | T             | 08/09 |       |     |
+| Professionele Vaardigheden en Loopbaanontwikkeling | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="40"}            | BSc 2    | Colloquium, Tutorial | CT            | 23/24 | 24/25 |     |
+| Academische Vaardigheden en Tutoraat               | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="40"}        | BSc 1    | Tutorial             | T             | 23/24 | 24/25 |     |
+| Reflection on Chemistry                            | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}              | BSc 2    | Lecture              | DLT           | 23/24 | 24/25 |     |
+| History and Philosophy of Science                  | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}              | BSc 3    | Lecture              | DCLT          | 16/17 | 24/25 |     |
+| Reflectie op natuurkunde                           | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}              | BSc 2    | Lecture              | T             | 23/24 |       |     |
+| Master Colloquium History of Science               | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="40"}               | MSc     | Colloquium           | C             | 22/23 |       |     |
+| The Remaking of Astronomy                          | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="40"}                | BSc 3    | Seminar              | DCT           | 21/22 |       |     |
+| History of Physics in Society                      | ![Logo of the University of Regensburg](images/logo_Regensburg.png){: height="40"}                | MSc     | Seminar              | DCT           | 21/22 | 22/23 |     |
+| Geschiedenis van de moderne natuurkunde            | ![Logo of the Utrecht University](images/logo_Utrecht.png){: height="40"}                | BSc 3    | Lecture              | LT            | 16/17 | 17/18 |     |
+| Philosophy of Science                              | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"} ![Logo of the Utrecht University](images/logo_Utrecht.png){: height="40"}            | MSc     | Seminar              | T             | 14/15 | 15/16 |     |
+| Natuurkundepracticum 2                             | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}              | BSc 2    | Laboratory           | T             | 08/09 | 09/10 |     |
+| Natuurkundepracticum 1                             | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}              | BSc 1    | Laboratory           | T             | 08/09 |       |     |
 
 ----
 
