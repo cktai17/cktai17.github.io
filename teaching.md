@@ -3,7 +3,7 @@ title: Courses taught
 permalink: /teaching
 ---
 
-| Course name                                        |Institute          | Level | Type                 | Role[^tasks] | First | Last  |  
+| Course name                                        |Institute&ensp&ensp&ensp&ensp          | Level | Type                 | Role[^tasks] | First | Last  |  
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------- | ------------ | ----- | ----- | 
 | Professionele Vaardigheden en Loopbaanontwikkeling | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}![Logo of VU Amsterdam](images/logo_VU.png){: height="40"}                | BSc 2 | Colloquium, Tutorial | CT           | 23/24 | 24/25 | 
 | Academische Vaardigheden en Tutoraat               | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="40"}![Logo of VU Amsterdam](images/logo_VU.png){: height="40"}                | BSc 1 | Tutorial             | T            | 23/24 | 24/25 |     
