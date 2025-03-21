@@ -3,9 +3,9 @@ title: Courses taught
 permalink: /teaching
 ---
 
-| Course name                                        |`Institute                     `            | Level | Type                 | Role[^tasks] | First | Last  |  
+| Course name                                        |Institute          | Level | Type                 | Role[^tasks] | First | Last  |  
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------- | ------------ | ----- | ----- | 
-| Professionele Vaardigheden en Loopbaanontwikkeling | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="50"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="50"}                | BSc 2 | Colloquium, Tutorial | CT           | 23/24 | 24/25 | 
+| Professionele Vaardigheden en Loopbaanontwikkeling | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="50"}&nbsp;![Logo of VU Amsterdam](images/logo_VU.png){: height="50"}                | BSc 2 | Colloquium, Tutorial | CT           | 23/24 | 24/25 | 
 | Academische Vaardigheden en Tutoraat               | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="50"} ![Logo of VU Amsterdam](images/logo_VU.png){: height="50"}                | BSc 1 | Tutorial             | T            | 23/24 | 24/25 |     
 | Reflection on Chemistry                            | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="50"}                                                                           | BSc 2 | Lecture              | DLT          | 23/24 | 24/25 |     
 | History and Philosophy of Science                  | ![Logo of the University of Amsterdam](images/logo_UvA.jpg){: height="50"}                                                                           | BSc 3 | Lecture              | DCLT         | 16/17 | 24/25 |     
