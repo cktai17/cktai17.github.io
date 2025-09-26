@@ -7,6 +7,9 @@ permalink: /presentations
 
 ## Public Lectures
 
+2025 September 26
+"Anton Pannekoek: Revolutionair Sterrenkundige", public lecture at Metius: Alkmaarse Weer- & Sterrenkundige Vereniging, Alkmaar.
+
 2024 April 16  
 “Leven en werk van Anton Pannekoek”, public lecture at Sterrenkundige Kring Minnaert, Utrecht.
 
