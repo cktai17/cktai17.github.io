@@ -31,7 +31,7 @@ permalink: /publications
 
 ## Magazines and Booklets
 
-Ralph Wijers, **Chaokang Tai**, and Ed van den Heuvel. “Honderd jaar sterren aan de Amstel”. _Zenit_, July/August 2022, 12-16.
+Ralph Wijers, **Chaokang Tai**, and Ed van den Heuvel. “[Honderd jaar sterren aan de Amstel](https://works.hcommons.org/records/ecyx3-2nr78)”. _Zenit_, July/August 2022, 12-16.
 
 **Chaokang Tai**. “[Anton Pannekoek (1873-1960): Marxist and Astronomer](https://hcommons.org/deposits/item/hc:20547/)“. _AIP History Newsletter_ 49, no 1 (2017): 4-5.
 
