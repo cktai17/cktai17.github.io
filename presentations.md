@@ -8,13 +8,20 @@ permalink: /presentations
 ## Public Lectures
 
 08.  2025 Oct 19, “Grenzen van de ruimte”, with Carsten Dominik and Martijn van Calmthout, _Brainwash Festival_, Melkweg, Amsterdam.
+   
 07.  2025 Sep 26, “Anton Pannekoek: Revolutionair sterrenkundige”, public lecture at Metius: Alkmaarse Weer- & Sterrenkundige Vereniging, Alkmaar.
+
 06.  2024 Apr 16, “Leven en werk van Anton Pannekoek”, public lecture at Sterrenkundige Kring Minnaert, Utrecht.
+
 05.  2023 Jan 27, “Anton Pannekoek”, public lecture at Volkssterrenwacht Bussloo.
+
 04.  2019 Nov 30, “Anton Pannekoek’s marxistische melkweg”, Salon Boerhaave-lezing “Sterrenstelsels”, _Kosmos: Kunst & Kennis_, Museum Boerhaave, Leiden.
+
 03.  2019 May 28, “Anton Pannekoek en de Universiteit Leiden”, Dirk van Eck-lezing “Stad en Universiteit”, Historische Vereniging Oud Leiden.
+
 02.  2018 Feb 15, “Anton Pannekoek” Public lecture at Triangulum, Vereniging voor Weer- en Sterrenkunde, Apeldoorn.
-01.  2015 Nov 07, “Anton Pannekoek”, _Museumn8 2015_, SMBA, Amsterdam. {: reversed="reversed"}
+
+01.  2015 Nov 07, “Anton Pannekoek”, _Museumn8 2015_, SMBA, Amsterdam.{: reversed="reversed"}
 ---
 
 ## Conference and Workshop Papers
@@ -39,7 +46,7 @@ permalink: /presentations
 04.  2015 Aug 28, “Left Radicalism and the Milky Way: Connecting the Socialist and Scientific Virtues of Anton Pannekoek”, _Epistemic Virtues in the Sciences and the Humanities,_ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University.
 03.  2015 Jun 19, “Human Virtues and the Ideal Scientist: Post-disciplinary Perspectives on Einstein and Pannekoek”, with Jeroen van Dongen, _Sixth Gewina Meeting of Historians of Science in the Low Countries_, Woudschoten, Zeist. 
 02.  2015 Jan 23, “How to Represent the Milky Way: Searching for the Relations between the Astronomy and Marxism of Anton Pannekoek”, _Fifth Low Countries History of Science_ _PhD-Conference_, Rolduc Abbey, Kerkrade.
-01.  2014 May 24, Objectiviteit of interpretatie? Het Melkwegonderzoek van Kapteyn en Pannekoek door het kader van epistemische waarden. _Workshop Tweede Wetenschappelijke Revolutie_, Museum Boerhaave, Leiden. {: reversed="reversed"}
+01.  2014 May 24, Objectiviteit of interpretatie? Het Melkwegonderzoek van Kapteyn en Pannekoek door het kader van epistemische waarden. _Workshop Tweede Wetenschappelijke Revolutie_, Museum Boerhaave, Leiden.{: reversed="reversed"}
 ---
 
 ## Colloquiums, Seminars, Master Classes, and Guest Lectures
@@ -64,4 +71,4 @@ permalink: /presentations
 04.  2014 Aug 17, “The Scientific and Political Persona: Searching for the Interrelations in the Astronomy and Marxism of Anton Pannekoek”, Vossius Center for History of Humanities and Sciences, University of Amsterdam.
 03.  2013 May 30, “Anton Pannekoek on the Structure of the Milky Way: Epistemic and Socialist Virtues in Twentieth Century Astronomy”, Graduation Seminar, Institute for the History and Foundations of Science, Utrecht University.
 02.  2013 Apr 26, “Anton Pannekoek’s Research on the Structure of the Universe”, Anton Pannekoek Institute for Astronomy, University of Amsterdam.
-01.  2012 Oct 23, Anton Pannekoek: A Case Study in the Transition of Epistemic Virtues in Twentieth Century Astronomy”, _Peter Galison Master Class_, Descartes Centre for the History and Foundations of the Sciences and the Humanities, Utrecht University. {: reversed="reversed"}
+01.  2012 Oct 23, Anton Pannekoek: A Case Study in the Transition of Epistemic Virtues in Twentieth Century Astronomy”, _Peter Galison Master Class_, Descartes Centre for the History and Foundations of the Sciences and the Humanities, Utrecht University.{: reversed="reversed"}
