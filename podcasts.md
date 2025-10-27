@@ -37,6 +37,6 @@ Guests: Gijs Nelemans, Jan Heerze, en Loek Scheurs
 NPO Focus Podcast: _Alles voor de wetenschap_
 Created by Edda Heinsman
 
-Episode 1: [**Pure fascinatie voor de sterren**](https://www.nporadio1.nl/podcasts/focus-wetenschap/109625/1-alles-voor-de-wetenschap-1-pure-fascinatie-voor-de-sterren)  
+Episode 1: [**Pure fascinatie voor de sterren**](https://npo.nl/luister/podcasts/101-focus-wetenschap/109625) 
 Guests: Chaokang Tai, Ed van den Heuvel, and Dick van Albada
 
