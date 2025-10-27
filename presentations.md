@@ -7,8 +7,11 @@ permalink: /presentations
 
 ## Public Lectures
 
+2025 Oktober 19
+“Grenzen van de ruimte”, with Carsten Dominik and Martijn van Calmthout, _Brainwash Festival_, Melkweg, Amsterdam.
+
 2025 September 26
-"Anton Pannekoek: Revolutionair Sterrenkundige", public lecture at Metius: Alkmaarse Weer- & Sterrenkundige Vereniging, Alkmaar.
+“Anton Pannekoek: Revolutionair sterrenkundige”, public lecture at Metius: Alkmaarse Weer- & Sterrenkundige Vereniging, Alkmaar.
 
 2024 April 16  
 “Leven en werk van Anton Pannekoek”, public lecture at Sterrenkundige Kring Minnaert, Utrecht.
