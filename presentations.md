@@ -22,6 +22,7 @@ permalink: /presentations
 02. — 2018 Feb 15, “Anton Pannekoek” Public lecture at Triangulum, Vereniging voor Weer- en Sterrenkunde, Apeldoorn.
 
 01. — 2015 Nov 07, “Anton Pannekoek”, _Museumn8 2015_, SMBA, Amsterdam.
+{: reversed="reversed"}
 
 ---
 
@@ -69,6 +70,7 @@ permalink: /presentations
 02. — 2015 Jan 23, “How to Represent the Milky Way: Searching for the Relations between the Astronomy and Marxism of Anton Pannekoek”, _Fifth Low Countries History of Science_ _PhD-Conference_, Rolduc Abbey, Kerkrade.
 
 01. — 2014 May 24, Objectiviteit of interpretatie? Het Melkwegonderzoek van Kapteyn en Pannekoek door het kader van epistemische waarden. _Workshop Tweede Wetenschappelijke Revolutie_, Museum Boerhaave, Leiden.
+{: reversed="reversed"}
 
 ---
 
@@ -115,3 +117,4 @@ permalink: /presentations
 02. — 2013 Apr 26, “Anton Pannekoek’s Research on the Structure of the Universe”, Anton Pannekoek Institute for Astronomy, University of Amsterdam.
 
 01. — 2012 Oct 23, Anton Pannekoek: A Case Study in the Transition of Epistemic Virtues in Twentieth Century Astronomy”, _Peter Galison Master Class_, Descartes Centre for the History and Foundations of the Sciences and the Humanities, Utrecht University.
+{: reversed="reversed"}
