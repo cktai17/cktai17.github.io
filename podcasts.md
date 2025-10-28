@@ -2,21 +2,17 @@
 title: Podcast appearances
 permalink: /podcasts
 ---
-
-## The kosmos van Pannekoek
-
-
 ![Logo of the podcast _De Kosmos van Pannekoek_](images/kosmos.jpg){: width="400"}
 
-Podcast: [_De Kosmos van Pannekoek_](https://api.uva.nl/nl/over-ons/geschiedenis/podcast-de-kosmos-van-pannekoek/podcast.html)  
-Published 10 June 2022  
+Podcast: [_**De Kosmos van Pannekoek**_](https://api.uva.nl/nl/over-ons/geschiedenis/podcast-de-kosmos-van-pannekoek/podcast.html)  
+Published 10 Jun 2022  
 Created by Edda Heinsman  
 Hosted by Edda Heinsman and Chaokang Tai  
 
 Episode 1: **De mysterieuze melkweg**  
 Guests: Sera Markoff and Milo Grootjen
 
-Episode 2: **Stralende ster**  
+Episode 2: **Stralende ster**
 Guests: Alex de Koter and Ed van den Heuvel
 
 Episode 3: **Astronoom zonder telescoop**  
@@ -30,13 +26,12 @@ Guests: Gijs Nelemans, Jan Heerze, en Loek Scheurs
 
 ------
 
-## Alles voor de wetenschap
-
 ![Logo of the podcast _Alles voor de Wetenschap_](images/alles_voor_de_wetenschap.jpg){: width="400"}
 
-NPO Focus Podcast: _Alles voor de wetenschap_
-Created by Edda Heinsman
+NPO Focus Podcast: _**Alles voor de wetenschap**_  
+Published 23 Jun 2024
+Created and hosted by Edda Heinsman
 
-Episode 1: [**Pure fascinatie voor de sterren**](https://npo.nl/luister/podcasts/101-focus-wetenschap/109625) 
+Episode 1: [**Pure fascinatie voor de sterren**](https://npo.nl/luister/podcasts/101-focus-wetenschap/109625)  
 Guests: Chaokang Tai, Ed van den Heuvel, and Dick van Albada
 
