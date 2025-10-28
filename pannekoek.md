@@ -1,8 +1,9 @@
 ---
+title: Anton Pannekoek, Marxist Astronomer 
 permalink: /pannekoek
 ---
-# Anton Pannekoek, Marxist Astronomer 
-## Photography, Epistemic Virtues, and Political Philosophy in Early-Twentieth Century Astronomy
+
+### Photography, Epistemic Virtues, and Political Philosophy in Early-Twentieth Century Astronomy
 
 Anton Pannekoek was both an influential Marxist and innovative astronomer; one of the theoretical leaders of the international socialist movement and the founder of the Astronomical Institute in Amsterdam that now carries his name. The goal of this project is twofold. First of all, it is to investigate Pannekoek’s contributions to astronomy and situate his research within the developments of astronomy during the first half of the twentieth century. Secondly, it is to recover the intricate connections that existed between the scientific and socialist research of Pannekoek, connections that he himself outwardly denied. I search for these connections by uncovering Pannekoek’s epistemic virtues through a reconstruction of his scholarly persona in both socialism and astronomy. Both his epistemic virtues and his scientific persona were strongly influenced by the philosophical context of Marxism, to which he contributed, and the practical reality of being an astronomer without an observatory in a time when astrophotography, astrophysics, and international collaboration increasingly became common place.
 
