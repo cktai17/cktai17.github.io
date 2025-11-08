@@ -65,4 +65,4 @@ defaults:
       type: pages
     values:
       sidebar: 
-	      nav: "docs"
+        nav: "docs"
