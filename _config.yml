@@ -1,7 +1,7 @@
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-remote_theme: jekyll/minima@2e9c7c0
+remote_theme: "mmistakes/minimal-mistakes"
 title: "Chaokang Tai - Historian of Science"
 tagline: "Personal homepage"
 description: "Personal homepage of Chaokang Tai"
