@@ -8,21 +8,49 @@ plugins:
   - jemoji
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
-title: "Chaokang Tai - Historian of Science"
-tagline: "Personal homepage"
+
+# Site Settings
+minimal_mistakes_skin: "mint"
+locale: en-GB
+title: "Chaokang Tai"
+subtitle: "Historian of Science"
+name: "Chaokang Tai"
 description: "Personal homepage of Chaokang Tai"
-url: http://www.cktai.nl/
+URL: http://www.cktai.nl/
+repository: "cktai17/cktai17.github.io"
+
+social: 
+  type: Person
+  name: Chaokang Tai
+  links:
+    - https://www.linkedin.com/in/cktai
+    - https://bsky.app/profile/cktai.nl
+    - https://scholar.google.nl/citations?user=4H0SgbgAAAAJ
+    - https://tex.stackexchange.com/users/171704/cktai
+    
 image:
   path: /images/photowork.jpg
   width: 192
   height: 192
 author: 
-  name: Chaokang Tai
-  email: "c.k.tai@outlook.com"
-minima:
-  social_links:
-    - { platform: bluesky,  user_url: "https://bsky.app/profile/cktai.nl"}
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/cktai/"}
-    - { platform: google_scholar, user_url: "https://scholar.google.nl/citations?user=4H0SgbgAAAAJ"}
-    - { platform: stackoverflow, user_url: "https://tex.stackexchange.com/users/171704/cktai"}
-    
+  name: "Chaokang Tai"
+  bio: "Historian of Science"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cktai"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/cktai.nl"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.nl/citations?user=4H0SgbgAAAAJ"
+    - label: "Stack Exchange"
+      icon: "fab fa-fw fa-stack-exchange"
+      url: "https://tex.stackexchange.com/users/171704/cktai"
+    - label: "email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:c.k.tai@outlook.com"
+
+footer: 
+  since: 2024
