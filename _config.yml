@@ -65,4 +65,6 @@ defaults:
       type: pages
     values:
       sidebar: 
+        layout: single
         nav: "docs"
+        
