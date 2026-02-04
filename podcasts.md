@@ -31,7 +31,7 @@ Guests: Gijs Nelemans, Jan Heerze, en Loek Scheurs
 
 ![Logo of the podcast _Alles voor de Wetenschap_](images/alles_voor_de_wetenschap.jpg){: width="400"}
 
-NPO Focus Podcast: **Alles voor de wetenschap**  
+NPO Focus Podcast: [**Alles voor de wetenschap**](https://www.academischerfgoed.nl/projecten/podcast-alles-voor-de-wetenschap/)  
 Published 23 Jun 2024
 Created and hosted by Edda Heinsman
 
