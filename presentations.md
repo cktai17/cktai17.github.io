@@ -27,7 +27,8 @@ permalink: /presentations
 
 ## Conference and Workshop Papers
 
-22.  2026 Jun 19-20, tba _Eleventh Gewina Woudschoten Conference_, Woudschoten, Zeist. 
+22.  2026 Jun 20, “The Workflow of Astrophotographic Research at Leiden Observatory, 1920-1960”, _Eleventh Gewina Woudschoten Conference_, Woudschoten, Zeist. 
+
 21.  2024 Sep 27, “The Workflow of Astrophotographic Research at Leiden Observatory, 1920-1960”, DFG Workshop *Photography's Materialities in the History of Science*, University of Regensburg.
 
 20.  2024 Aug 29, “Capturing the Southern Skies: Leiden Observatory’s Search for a Southern Station in the Netherlands East Indies and South Africa”, *Workshop The Histories of (Post-)Colonial Universities in the Netherlands*, Wageningen University and Research.
@@ -74,7 +75,7 @@ permalink: /presentations
 
 ## Colloquiums, Seminars, Master Classes, and Guest Lectures
 
-22.  2026 May 22, tba, Universiteit Leiden
+22.  2026 May 22, "A Colonial and Material History of Astrophotography at Leiden Observatory, 1918-1960", *Global Histories of Knowledge* Seminar, Leiden University.
 
 21.  2024 Nov 11, “Capturing the Southern Skies: Leiden Observatory’s Search for a Southern Station, and the Astrophotographic Workflow it Enabled”, Vossius Center for History of Humanities and Sciences, University of Amsterdam.
 
